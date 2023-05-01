@@ -16,6 +16,5 @@ The filter coefficients and the noisy sinus signal are generated using MATLAB Fi
 
 In addition, the post implementation results in terms of resource usage and timing summary for different number of IPs are shown in Table below.
 
-![image](https://user-images.githubusercontent.com/85510863/235479994-70a341ec-a9c9-412d-ad7e-97b70a4d82a6.png)
-
+![image](https://user-images.githubusercontent.com/85510863/235480536-da4987af-39d1-45b6-9e26-d65391babe72.png)
 
